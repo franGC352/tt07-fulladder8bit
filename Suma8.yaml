@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
-  title:        "Ripple Carry Adder 8 bit"      # Project title
-  author:       "Jason Kaufmann"      # Your name
+  title:        "Sumador de 8 Bit"      # Project title
+  author:       "Francisco García C"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Adds two 8 bit numbers together"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
